@@ -1,0 +1,8 @@
+{
+    "field1": "cc11",
+    "field2": "cc22",
+    "structField": {
+        "sf1": "ccc11",
+        "sf2": "ccc22"
+    }
+}
